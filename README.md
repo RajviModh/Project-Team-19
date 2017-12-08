@@ -8,7 +8,7 @@ A platform for homeless writers
 
 # Team Members
 Neha Jethani
-Rajvi Modh(:*)
+Rajvi Modh
 Kalikalyan Dash
 Divaynak Shukla
 
